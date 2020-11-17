@@ -1,0 +1,31 @@
+body{
+	background-color:black;
+}
+
+h1{
+color:green ;
+font-size: 50px;
+border:2px dashed teal;
+text-align :center;
+}
+
+table{
+	margin:auto; 
+}
+
+td{
+	width:100px;
+	height: 100px;
+}
+ .vertical{
+ 	border-right: white solid 2px;
+	border-left: white solid 2px; 
+
+}
+
+.below{
+	border-top: white solid 2px; 
+	border-bottom: white solid 2px; 
+}
+
+ 
